@@ -44,9 +44,6 @@ food-store-tpi/
 ├── queries.sql
 ├── transacciones.sql
 ├── README.md
-└── docs/
-    ├── diagrama-er.png
-    └── capturas/
 ```
 
 ## Cómo reproducir las pruebas de transacciones
@@ -56,4 +53,4 @@ Los escenarios de aislamiento y bloqueo (`transacciones.sql`) requieren **dos se
 ## Documentación
 
 - 📄 **Informe completo (PDF)**: https://github.com/marianoemir/TPI-BD-Food-Store/blob/main/TPI_Food_Store.pdf
-- 🎥 **Video demostración**: [completar con link de YouTube/Drive]
+- 🎥 **Video demostración**: https://youtu.be/GBiR7vITjdQ
